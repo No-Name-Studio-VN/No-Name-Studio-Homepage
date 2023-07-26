@@ -1,0 +1,32 @@
+{
+	"intro": {
+		"start": "const nnsvn.me = ( objects ) =>",
+		"end": "Hello, we are",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "No Name Studio",
+		"usp": "We are an ambitious and close-knit team, driven by a shared vision to turn our dreams into reality!"
+	},
+
+	"paragraph": "We are an ambitious and close-knit team, driven by a shared vision to turn our dreams into reality!",
+
+	"buttons": {
+		"primary": {
+			"title": "Contact Us",
+			"url": "mailto:contact@nnsvn.me",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/company/nonamestudiovn/",
+			"leaveSite": "true"
+		}
+	}
+}

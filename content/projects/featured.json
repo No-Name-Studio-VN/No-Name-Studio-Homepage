@@ -1,0 +1,47 @@
+[
+	{
+		"project": "bot.nnsvn.me",
+		"url": "https://bot.nnsvn.me",
+		"repo": "Private",
+		"descriptionTitle": "A multifunctional, user-friendly and intuitive Discord Bot",
+		"description": " providing best features in Discord servers. It has a range of tools that enable users to tailor bot's responses, permissions, and commands to suit their specific needs.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", "h": "1228", "w": "621", "url": "/img/botnoname/03.png" },
+			{ "key": "mock-stack",	"hover": "right", "h": "1228", "w": "621", "url": "/img/botnoname/02.png" },
+			{ "key": "mock-stack",	"hover": "left", "h": "1228", "w": "621", "url": "/img/botnoname/01.png" }
+		],
+		"stack": [
+			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "discordjs", 	"name": "Discord.JS", 	"type": "devicon" },
+			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
+			{ "key": "expressjs", 	"name": "ExpressJS", 		"type": "devicon" },
+			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "react", 		"name": "React", 		"type": "devicon" },
+			{ "key": "bootstrap", 	"name": "Bootstrap 5", 		"type": "devicon" },
+			{ "key": "tailwindcss", 	"name": "Tailwindcss", 		"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "github",		"name": "GitHub", 	"type": "devicon" },
+			{ "key": "googlecloud",		"name": "Google Cloud", 	"type": "devicon" }
+		]
+	},
+	{
+		"project": "DAW Recognizer for Discord",
+		"url": "https://github.com/manhbi18112005/DAW-Recognizer-for-Discord",
+		"repo": "Public",
+		"descriptionTitle": "A simple, configurable utility",
+		"description": " that allows you to show what you're doing on the Digital Audio Workstation (DAW) in your Discord now playing status. It supports many different DAW like FL Studio, Ableton, Studio One, Pro Tool, ...",
+		"imageOptions": [
+			{ "key": "size", 		"value": "" }
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "left", "h": "500", "w": "868",  "url": "/img/dawrpc/app.png" }
+		],
+		"stack": [
+			{ "key": "csharp", 		"name": "C#", 		"type": "devicon" },
+			{ "key": "windows8", 		"name": "Winform", 		"type": "devicon" },
+			{ "key": "github",		"name": "GitHub", 	"type": "devicon" }
+		]
+	}
+]
