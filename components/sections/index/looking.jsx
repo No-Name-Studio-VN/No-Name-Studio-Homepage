@@ -30,7 +30,7 @@ export default function Looking() {
 		<Section classProp={`${looking.section} borderBottom`}>	
 			<Container classProp={`${section.title} ${looking.container}`} spacing={['verticalXXXLrg']}>
 				<h3 className={looking.json}><span className={looking.highlight}>Did we miss something?</span></h3>
-				<p className="subtitle">If you don't see your specialty listed, but you have years of professional experience, are really talented at what you do, and possess a set of skills which would help us create better products and experiences for our customers, we hope you'll apply below.</p>
+				<p className="subtitle">If you don&apos;t see your specialty listed, but you have years of professional experience, are really talented at what you do, and possess a set of skills which would help us create better products and experiences for our customers, we hope you&apos;ll apply below.</p>
 				{/* <h3 className={looking.json}>Senior : &#123;</h3>
 				<h3 className={looking.jsonSub}><span className={looking.highlight}>Front End Engineer</span>,</h3>
 				<h3 className={looking.jsonSub}><span className={looking.highlight2}>User Experience Designer</span></h3>

@@ -5,7 +5,6 @@ import Container 	from '../../structure/container';
 import Image from 'next/image'
 
 import Icon from '../../utils/icon.util'
-import Badges 		from '../../utils/badge.list.util'
 
 import css from '../../../styles/sections/projects/recent.module.scss'
 

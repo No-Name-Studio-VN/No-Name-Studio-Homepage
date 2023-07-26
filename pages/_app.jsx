@@ -46,7 +46,7 @@ export default function MyApp({ Component, pageProps }) {
 
 				<meta name="HandheldFriendly" content="true" />
 				<meta name="MobileOptimized" content="375" />
-				<meta http-equiv="cleartype" content="on" />
+				<meta httpEquiv="cleartype" content="on" />
 
 				<link rel="apple-touch-icon" href="https://cdn.nnsvn.me/img/brand/logo.svg" />
 				<link rel="manifest" href="/favicon/site.webmanifest" />
